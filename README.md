@@ -21,7 +21,9 @@ This dashboard analyzes road accident data using Microsoft Excel.
 - Dashboard Design
 
 ## Dashboard Preview
-(dashboard.(3)png)
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
 
 ## Author
 Gulam Qadir Siddiqui
